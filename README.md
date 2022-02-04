@@ -2,7 +2,7 @@
 
 - 🔭 Conhecimento em HTML, CSS, JS e Python
 - 🎈 Tenho 16 anos
-- 📚 Aluno do curso de programação full stack do <a href="https://programadorbr.com/" rel='next' target='_blank'>ProgramdorBR</a>
+- 📚 Aluno do curso de programação full stack do <a href="https://programadorbr.com/" rel='next' target='_blank'>ProgramadorBR</a>
 
 <div align="center">
   <a href="https://github.com/GabrielParreirass">
