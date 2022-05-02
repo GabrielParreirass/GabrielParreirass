@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel 👋
 
-- 🔭 Conhecimento em HTML, CSS, JS e Python
+- 🔭  HTML, CSS, JS e Python
 - 🎈 Tenho 16 anos
 - 📚 Aluno do curso de programação full stack do <a href="https://programadorbr.com/" rel='next' target='_blank'>ProgramadorBR</a>
 
