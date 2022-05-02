@@ -1,6 +1,7 @@
 ### Olá, eu sou o Gabriel 👋
 
 - 🔭  HTML, CSS, JS e Python
+- 🔭 Node.js / React.js
 - 🎈 Tenho 16 anos
 - 📚 Aluno do curso de programação full stack do <a href="https://programadorbr.com/" rel='next' target='_blank'>ProgramadorBR</a>
 
