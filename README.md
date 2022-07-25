@@ -5,6 +5,7 @@
 - 🍃 MongoDB
 - 🎈 Tenho 16 anos
 - 📚Curso de programação full stack do <a href="https://programadorbr.com/" rel='next' target='_blank'>ProgramadorBR</a>
+- ✔ Certificados => <a href="https://www.linkedin.com/in/gabriel-parreiras-11aa64208/" rel='next' target='_blank'>Linkedin</a>
 
 <div align="center">
   <a href="https://github.com/GabrielParreirass">
