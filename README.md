@@ -5,7 +5,7 @@
 - 🍃 MongoDB
 - 🔥 Firebase
 - 🎈 Tenho 16 anos
-- ✔ Certificados => <a href="https://www.linkedin.com/in/gabriel-parreiras-11aa64208/" rel='next' target='_blank'>Linkedin</a>
+- ✔ <a href="https://www.linkedin.com/in/gabriel-parreiras-11aa64208/" rel='next' target='_blank'>Certificados</a>
 - 🧾Contato: gparreiras46@gmail.com
 
 
