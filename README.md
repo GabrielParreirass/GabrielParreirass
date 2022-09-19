@@ -6,6 +6,7 @@
 - 🔥 Firebase
 - 🎈 Tenho 16 anos
 - ✔ Certificados => <a href="https://www.linkedin.com/in/gabriel-parreiras-11aa64208/" rel='next' target='_blank'>Linkedin</a>
+-🧾Contato: gparreiras46@gmail.com
 
 <div align="center">
   <a href="https://github.com/GabrielParreirass">
