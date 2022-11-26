@@ -1,9 +1,9 @@
 ### Olá, eu sou o Gabriel 👋
 
-- 📂  HTML, CSS, JS e Python
+- 📂  HTML, CSS, JS, TS e Python
 - 🔭  React.js / Next.js
 - 📡  Node.js / Express
-- 🍃  MongoDB
+- 🍃  MongoDB / 🔺 Prisma
 - 🔥  Firebase
 - 🎈  Tenho 17 anos
 - ✔ <a href="https://www.linkedin.com/in/gabriel-parreiras-11aa64208/" rel='next' target='_blank'>Certificados</a>
