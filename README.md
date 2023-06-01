@@ -17,15 +17,15 @@
 </div>
   
  <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Rafa-Js" height="40" width="100" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img align="center" alt="Rafa-HTML" height="40" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Rafa-CSS" height="40" width="100" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img align="center" alt="Rafa-Python" height="40" width="100" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img align="center" alt="Rafa-HTML" height="30" width="100" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="Rafa-CSS" height="30" width="100" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
    <br/>
-   <img align="center" alt="Rafa-Python" height="40" width="100" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-   <img align="center" alt="Rafa-Python" height="40" width="100" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-   <img align="center" alt="Rafa-Python" height="40" width="100" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" alt="Rafa-Python" height="40" width="100" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+   <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+   <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+   <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
    
     
  </div>
