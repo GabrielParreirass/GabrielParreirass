@@ -1,5 +1,5 @@
-### Olá, eu sou o Gabriel 👋
-## 🌐 Web Developer
+## Olá, eu sou o Gabriel 👋
+### 🌐 Web Developer
 - 📂  HTML, CSS, JS, TS e Python
 - 🔭  React.js / Next.js
 - 📡  Node.js / Express
