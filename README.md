@@ -2,7 +2,7 @@
 ### 🌐 Web Developer
 - 📂  HTML, CSS, JS, TS e Python
 - 🔭  React.js / Next.js
-- 🌊  TailwindCSS
+- 🌬  TailwindCSS
 - 📡  Node.js / Express
 - 🍃  MongoDB / 🔺 Prisma
 - 🔥  Firebase
