@@ -1,6 +1,7 @@
 ## Olá, eu sou o Gabriel 👋
 ### 🌐 Web Developer
 - 📂  HTML, CSS, JS, TS e Python
+- 💻  ESP8266
 - 🔭  React.js / Next.js
 - 🌬  TailwindCSS
 - 📡  Node.js / Express
