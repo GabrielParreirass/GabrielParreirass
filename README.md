@@ -7,7 +7,7 @@
 - 📡  Node.js / Express
 - 🍃  MongoDB / 🔺 Prisma
 - 🔥  Firebase
-- 🎈  Tenho 17 anos
+- 🎈  18 anos
 - ✔ <a href="https://www.linkedin.com/in/gabriel-parreiras-11aa64208/" rel='next' target='_blank'>Certificados</a>
 - 🧾Contato: gparreiras46@gmail.com
 
