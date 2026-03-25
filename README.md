@@ -1,13 +1,14 @@
 ## Olá, eu sou o Gabriel 👋
 ### 🌐 Web Developer
 - 📂  HTML, CSS, JS, TS e Python
-- 💻  ESP8266
+- 💻  ESP8266 & MQTT
 - 🔭  React.js / Next.js
+- 📱  React Native
 - 🌬  TailwindCSS
 - 📡  Node.js / Express / NestJS
 - 🍃  MongoDB / 🔺 Prisma
 - 🔥  Firebase
-- 🎈  19 anos
+- 🎈  20 anos
 - ✔ <a href="https://www.linkedin.com/in/gabriel-parreiras-11aa64208/" rel='next' target='_blank'>Certificados</a>
 - 🧾Contato: gparreiras46@gmail.com
 
