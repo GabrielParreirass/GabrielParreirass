@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel 👋
 ### 🌐 Web | Mobile | IoT
-- 📂  HTML, CSS, JS, TS e Python
+- 📂  HTML, CSS, JS, TS, Python e C++
 - 💻  ESP8266 & MQTT
 - 🔭  React.js / Next.js
 - 📱  React Native
