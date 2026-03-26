@@ -1,5 +1,5 @@
 ## Olá, eu sou o Gabriel 👋
-### 🌐 Web Developer
+### 🌐 Web | Mobile | IoT
 - 📂  HTML, CSS, JS, TS e Python
 - 💻  ESP8266 & MQTT
 - 🔭  React.js / Next.js
